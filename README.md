@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Barış Bilen
 
+I am a Mechatronics Engineer and currently doing a Master's Degree in Computer Engineering at ITU and working as a Research Assistant in the same department. 
 <!--
 **bilenbaris/bilenbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
