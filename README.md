@@ -2,7 +2,7 @@
 
 - ⚙️ Alumni of YTU Mechatronics Engineering <br>
 - 🖥️	 Continuing Master's Degree in Computer Engineering at ITU <br>
-- 🔭 I’m currently working on Socially Aware Navigation
+- 🔭 I’m currently working on Socially Aware Robot Navigation
 
 [LinkedIn](https://www.linkedin.com/in/bilenbaris/) <br>
 
